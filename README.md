@@ -6,6 +6,11 @@ The Repository contains an android project and the snapshots of the application 
 
 ### <b>1. Launcher Activity </b>
 
-![Launcher activity](https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/1.png =250x)
+<p align="center">
+  <img src="https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/1.png" width="350"/>
+</p
+
+![Launcher activity](https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/1.png)
+
 
 
