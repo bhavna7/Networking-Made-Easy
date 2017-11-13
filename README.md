@@ -25,8 +25,11 @@ The View when we click on <b>OSI MODEL</b>.<br> It contains all the OSI Layers. 
 ### <b>Application Layer </b>
 The View when we click on <b>Application Layer</b>.<br> The view supports both potrait and landscape mode as per users convience.
   <p align="center">
-   <img src="https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/6.png" width="250" border="5"/> <br>
-  <img src="https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/7.png"  border="5"/>
+   <img src="https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/6.png" width="250" border="5"/>
+  </p>
+  
+  <p align="center">
+   <img src="https://github.com/bhavna7/Networking-Made-Easy/blob/master/images/7.png" height="250" border="5"/>
   </p>
 
 
